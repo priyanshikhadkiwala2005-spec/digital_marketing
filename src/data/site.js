@@ -58,6 +58,6 @@ export const photos = {
   gym: '1534438327276-14e5300c3a48',
   realEstate: '1600596542815-ffad4c1539a9',
   clinic: '1576091160399-112ba8d25d1d',
-  education: '1523050854058-8df90110c9f1',
+  education: '1427504494785-3a9ca7044f45',
   phoneHand: '1512941937669-90a1b58e7e9c',
 }
